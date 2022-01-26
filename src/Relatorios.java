@@ -4,7 +4,9 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Calendar;
+import java.util.Collections;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Relatorios {
   private ArrayList<Partido> listaPartidos = new ArrayList<Partido>();
@@ -124,6 +126,33 @@ public class Relatorios {
     }
   }
 
+  private static Boolean candidatoEleito(Candidato c) {
+    return c.getSituacao().equals("Eleito");
+  }
+
+  private int calculaNumeroVagas() {
+    int count = 0;
+    for (Candidato c : this.listaCandidatos) {
+      if (candidatoEleito(c)) {
+        count++;
+      }
+    }
+
+    return count;
+  }
+
+  private ArrayList<Candidato> retornaCandidatosEleitos() {
+    ArrayList<Candidato> eleitos = new ArrayList<Candidato>();
+
+    for (Candidato c : this.listaCandidatos) {
+      if (candidatoEleito(c)) {
+        eleitos.add(c);
+      }
+    }
+
+    return eleitos;
+  }
+
   public Relatorios(String csvPartidos, String csvCandidatos) {
     // lê os partidos e adiciona-os à lista de partidos
     this.lePartidos(csvPartidos);
@@ -135,15 +164,33 @@ public class Relatorios {
   }
 
   public void relatorio1() {
+
+    System.out.println("Número de vagas: " + this.calculaNumeroVagas());
+
     // exibe partidos e candidatos associados (isto é apenas um teste e deve, pois,
     // ser removido)
-    for (Partido p : this.listaPartidos) {
-      System.out.println("\n----------------------------------\n");
-      System.out.println("Partido: " + p.getNome());
-      System.out.println("Candidatos:");
-      for (Candidato c : p.getListaCandidatos()) {
-        System.out.println(c.getNome());
-      }
+    // for (Partido p : this.listaPartidos) {
+    // System.out.println("\n----------------------------------\n");
+    // System.out.println("Partido: " + p.getNome());
+    // System.out.println("Candidatos:");
+    // for (Candidato c : p.getListaCandidatos()) {
+    // System.out.println(c.getNome());
+    // }
+    // }
+  }
+
+  public void relatorio2() {
+    System.out.println("Vereadores eleitos:");
+
+    ArrayList<Candidato> eleitos = retornaCandidatosEleitos();
+
+    Collections.sort(eleitos, new ComparadorCandidatoVotosNominais());
+
+    for (int i = 0; i < this.calculaNumeroVagas(); i++) {
+      Candidato vereador = eleitos.get(i);
+
+      System.out.printf("%d - %s / %s (%s, %d votos)\n", i + 1, vereador.getNome(), vereador.getNomeUrna(),
+          vereador.getPartido().getSigla(), vereador.getVotosNominais());
     }
   }
 }
