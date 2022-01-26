@@ -164,19 +164,7 @@ public class Relatorios {
   }
 
   public void relatorio1() {
-
     System.out.println("Número de vagas: " + this.calculaNumeroVagas());
-
-    // exibe partidos e candidatos associados (isto é apenas um teste e deve, pois,
-    // ser removido)
-    // for (Partido p : this.listaPartidos) {
-    // System.out.println("\n----------------------------------\n");
-    // System.out.println("Partido: " + p.getNome());
-    // System.out.println("Candidatos:");
-    // for (Candidato c : p.getListaCandidatos()) {
-    // System.out.println(c.getNome());
-    // }
-    // }
   }
 
   public void relatorio2() {
@@ -188,6 +176,17 @@ public class Relatorios {
 
     for (int i = 0; i < this.calculaNumeroVagas(); i++) {
       Candidato vereador = eleitos.get(i);
+
+      System.out.printf("%d - %s / %s (%s, %d votos)\n", i + 1, vereador.getNome(), vereador.getNomeUrna(),
+          vereador.getPartido().getSigla(), vereador.getVotosNominais());
+    }
+  }
+
+  public void relatorio3() {
+    Collections.sort(this.listaCandidatos, new ComparadorCandidatoVotosNominais());
+
+    for (int i = 0; i < this.calculaNumeroVagas(); i++) {
+      Candidato vereador = this.listaCandidatos.get(i);
 
       System.out.printf("%d - %s / %s (%s, %d votos)\n", i + 1, vereador.getNome(), vereador.getNomeUrna(),
           vereador.getPartido().getSigla(), vereador.getVotosNominais());
