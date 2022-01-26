@@ -1,6 +1,9 @@
+import java.util.ArrayList;
+
 public class Partido {
   private int numero, votosLegenda;
   private String nome, sigla;
+  private ArrayList<Candidato> candidatos = new ArrayList<Candidato>();
 
   public Partido(int numero, int votosLegenda, String nome, String sigla) {
     this.numero = numero;
@@ -9,19 +12,39 @@ public class Partido {
     this.sigla = sigla;
   }
 
-  int getNumero() {
+  public void exibePartido() {
+    System.out.println("Nome: " + this.nome);
+    System.out.println("Numero: " + this.numero);
+    System.out.println("sigla: " + this.sigla);
+    System.out.println("Votos Legenda: " + this.votosLegenda);
+    System.out.println();
+  }
+
+  public void adicionaCandidato(Candidato candidato) {
+    this.candidatos.add(candidato);
+  }
+
+  public void adicionaListaCandidatos(ArrayList<Candidato> lista) {
+    this.candidatos = lista;
+  }
+
+  public ArrayList<Candidato> getListaCandidatos() {
+    return this.candidatos;
+  }
+
+  public int getNumero() {
     return this.numero;
   }
 
-  int getVotosLegenda() {
+  public int getVotosLegenda() {
     return this.votosLegenda;
   }
 
-  String getNome() {
+  public String getNome() {
     return this.nome;
   }
 
-  String getSigla() {
+  public String getSigla() {
     return this.sigla;
   }
 }
