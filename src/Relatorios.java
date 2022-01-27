@@ -231,7 +231,21 @@ public class Relatorios {
   public void relatorio5() {
   }
 
+  // TODO: colocar 'eleito' e 'candidato' quando houverem apenas 0 ou 1
+  // eleitos/candidatos
   public void relatorio6() {
+    System.out.println("Votação dos partidos e número de candidatos eleitos:");
+
+    // clonando a lista de partidos e ordenando-a
+    ArrayList<Partido> partidos = new ArrayList<Partido>(this.listaPartidos);
+    Collections.sort(partidos, new ComparadorPartidoTotalVotos());
+
+    for (int i = 0; i < partidos.size(); i++) {
+      Partido p = partidos.get(i);
+      System.out.printf("%d - %s - %d, %d votos (%d nominais e %d de legenda), %d candidatos eleitos\n", i + 1,
+          p.getSigla(), p.getNumero(), p.getTotalVotosValidos(), p.getTotalVotosNominais(), p.getVotosLegenda(),
+          p.getQuantidadeCandidatosEleitos());
+    }
   }
 
   public void relatorio7() {

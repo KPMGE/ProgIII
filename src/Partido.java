@@ -28,8 +28,36 @@ public class Partido {
     this.candidatos = lista;
   }
 
+  public int getTotalVotosValidos() {
+    int total = 0;
+
+    for (Candidato c : this.candidatos) {
+      if (c.getDestinoVoto().equals("Válido")) {
+        total += c.getVotosNominais();
+      }
+    }
+
+    return total + this.votosLegenda;
+  }
+
+  public int getTotalVotosNominais() {
+    return this.getTotalVotosValidos() - this.votosLegenda;
+  }
+
   public ArrayList<Candidato> getListaCandidatos() {
     return this.candidatos;
+  }
+
+  public int getQuantidadeCandidatosEleitos() {
+    int total = 0;
+
+    for (Candidato c : this.candidatos) {
+      if (c.getSituacao().equals("Eleito")) {
+        total++;
+      }
+    }
+
+    return total;
   }
 
   public int getNumero() {
