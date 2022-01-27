@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.util.Calendar;
 import java.util.Collections;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Relatorios {
   private ArrayList<Partido> listaPartidos = new ArrayList<Partido>();
@@ -153,6 +152,34 @@ public class Relatorios {
     return eleitos;
   }
 
+  private int retornaTotalVotosValidos() {
+    int total = 0;
+    for (Partido p : this.listaPartidos) {
+      total += p.getVotosLegenda();
+
+      for (Candidato c : p.getListaCandidatos()) {
+        if (c.getDestinoVoto().equals("Válido")) {
+          total += c.getVotosNominais();
+        }
+      }
+    }
+
+    return total;
+  }
+
+  private int retornaTotalVotosLegenda() {
+    int total = 0;
+    for (Partido p : this.listaPartidos) {
+      total += p.getVotosLegenda();
+    }
+
+    return total;
+  }
+
+  private float calculaPorcentagem(float num1, float num2) {
+    return (100 * num2) / num1;
+  }
+
   public Relatorios(String csvPartidos, String csvCandidatos) {
     // lê os partidos e adiciona-os à lista de partidos
     this.lePartidos(csvPartidos);
@@ -165,6 +192,7 @@ public class Relatorios {
 
   public void relatorio1() {
     System.out.println("Número de vagas: " + this.calculaNumeroVagas());
+    System.out.println();
   }
 
   public void relatorio2() {
@@ -180,6 +208,8 @@ public class Relatorios {
       System.out.printf("%d - %s / %s (%s, %d votos)\n", i + 1, vereador.getNome(), vereador.getNomeUrna(),
           vereador.getPartido().getSigla(), vereador.getVotosNominais());
     }
+
+    System.out.println();
   }
 
   public void relatorio3() {
@@ -191,5 +221,40 @@ public class Relatorios {
       System.out.printf("%d - %s / %s (%s, %d votos)\n", i + 1, vereador.getNome(), vereador.getNomeUrna(),
           vereador.getPartido().getSigla(), vereador.getVotosNominais());
     }
+
+    System.out.println();
+  }
+
+  public void relatorio4() {
+  }
+
+  public void relatorio5() {
+  }
+
+  public void relatorio6() {
+  }
+
+  public void relatorio7() {
+  }
+
+  public void relatorio8() {
+  }
+
+  public void relatorio9() {
+  }
+
+  public void relatorio10() {
+  }
+
+  public void relatorio11() {
+    int totalVotosValidos = retornaTotalVotosValidos();
+    int totalVotosLegenda = retornaTotalVotosLegenda();
+    int totalVotosNominais = totalVotosValidos - totalVotosLegenda;
+
+    System.out.println("Total de votos válidos: " + totalVotosValidos);
+    System.out.printf("Total de votos nominais: %d (%.2f%%)\n", totalVotosNominais,
+        calculaPorcentagem(totalVotosValidos, totalVotosNominais));
+    System.out.printf("Total de votos de legenda: %d (%.2f%%)\n", totalVotosLegenda,
+        calculaPorcentagem(totalVotosValidos, totalVotosLegenda));
   }
 }

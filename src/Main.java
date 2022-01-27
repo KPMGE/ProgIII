@@ -3,9 +3,8 @@ public class Main {
     Relatorios relatorios = new Relatorios("./input/partidos.csv", "./input/candidatos.csv");
 
     relatorios.relatorio1();
-    System.out.println();
     relatorios.relatorio2();
-    System.out.println();
     relatorios.relatorio3();
+    relatorios.relatorio11();
   }
 }
