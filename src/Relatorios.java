@@ -154,14 +154,9 @@ public class Relatorios {
 
   private int retornaTotalVotosValidos() {
     int total = 0;
-    for (Partido p : this.listaPartidos) {
-      total += p.getVotosLegenda();
 
-      for (Candidato c : p.getListaCandidatos()) {
-        if (c.getDestinoVoto().equals("Válido")) {
-          total += c.getVotosNominais();
-        }
-      }
+    for (Partido p : this.listaPartidos) {
+      total += p.getTotalVotosValidos();
     }
 
     return total;
@@ -169,6 +164,7 @@ public class Relatorios {
 
   private int retornaTotalVotosLegenda() {
     int total = 0;
+
     for (Partido p : this.listaPartidos) {
       total += p.getVotosLegenda();
     }
@@ -213,10 +209,13 @@ public class Relatorios {
   }
 
   public void relatorio3() {
-    Collections.sort(this.listaCandidatos, new ComparadorCandidatoVotosNominais());
+    System.out.println("Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):");
+    // clonando lista de candidatos e ordenando-a
+    ArrayList<Candidato> candidatos = new ArrayList<Candidato>(this.listaCandidatos);
+    Collections.sort(candidatos, new ComparadorCandidatoVotosNominais());
 
     for (int i = 0; i < this.calculaNumeroVagas(); i++) {
-      Candidato vereador = this.listaCandidatos.get(i);
+      Candidato vereador = candidatos.get(i);
 
       System.out.printf("%d - %s / %s (%s, %d votos)\n", i + 1, vereador.getNome(), vereador.getNomeUrna(),
           vereador.getPartido().getSigla(), vereador.getVotosNominais());
@@ -226,9 +225,32 @@ public class Relatorios {
   }
 
   public void relatorio4() {
+    System.out.println("Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:");
+    ArrayList<Candidato> candidatosMaisVotados = new ArrayList<Candidato>(this.listaCandidatos);
+    Collections.sort(candidatosMaisVotados, new ComparadorCandidatoVotosNominais());
+    for (int i = 0; i < 15; i++) {
+      if (!candidatoEleito(candidatosMaisVotados.get(i))) {
+        System.out.printf("%d - %s / %s (%s, %d votos)\n", i + 1, candidatosMaisVotados.get(i).getNome(),
+            candidatosMaisVotados.get(i).getNomeUrna(),
+            candidatosMaisVotados.get(i).getPartido().getSigla(), candidatosMaisVotados.get(i).getVotosNominais());
+      }
+    }
+
+    System.out.println();
   }
 
   public void relatorio5() {
+    System.out.println("Eleitos, que se beneficiaram do sistema proporcional:");
+    ArrayList<Candidato> candidatosMaisVotados = new ArrayList<Candidato>(this.listaCandidatos);
+    Collections.sort(candidatosMaisVotados, new ComparadorCandidatoVotosNominais());
+    for (int i = 14; i < candidatosMaisVotados.size() - 1; i++) {
+      if (candidatoEleito(candidatosMaisVotados.get(i))) {
+        System.out.printf("%d - %s / %s (%s, %d votos)\n", i + 1, candidatosMaisVotados.get(i).getNome(),
+            candidatosMaisVotados.get(i).getNomeUrna(),
+            candidatosMaisVotados.get(i).getPartido().getSigla(), candidatosMaisVotados.get(i).getVotosNominais());
+      }
+    }
+    System.out.println();
   }
 
   // TODO: colocar 'eleito' e 'candidato' quando houverem apenas 0 ou 1
@@ -246,18 +268,77 @@ public class Relatorios {
           p.getSigla(), p.getNumero(), p.getTotalVotosValidos(), p.getTotalVotosNominais(), p.getVotosLegenda(),
           p.getQuantidadeCandidatosEleitos());
     }
+
+    System.out.println();
   }
 
   public void relatorio7() {
+    System.out.println("Votação dos partidos (apenas votos de legenda):");
+
+    ArrayList<Partido> partidos = new ArrayList<Partido>(this.listaPartidos);
+    Collections.sort(partidos, new ComparadorPartidoVotosLegenda());
+
+    for (int i = 0; i < partidos.size(); i++) {
+      Partido p = partidos.get(i);
+      int votosLegenda = p.getVotosLegenda();
+      int totalVotos = p.getTotalVotosValidos();
+      float porcentagem = calculaPorcentagem(totalVotos, votosLegenda);
+
+      System.out.printf("%d - %s - %d, %d votos de legenda", i + 1, p.getSigla(),
+          p.getNumero(), votosLegenda);
+
+      if (Double.isNaN(porcentagem)) {
+        System.out.println("(proporção não calculada, 0 voto no partido)");
+      } else {
+        System.out.printf("(%.2f%% do total do partido)\n", porcentagem);
+      }
+    }
+
+    System.out.println();
   }
 
-  public void relatorio8() {
-  }
+  // TODO: Corrigir
+  // public void relatorio8() {
+  // System.out.println("Primeiro e último colocados de cada partido:");
 
+  // for (int i = 0; i < listaPartidos.size(); i++) {
+  // Partido p = listaPartidos.get(i);
+  // Candidato primeiroCandidato = p.getListaCandidatos().get(0);
+  // Candidato ultimoCandidato =
+  // p.getListaCandidatos().get(p.getListaCandidatos().size() - 1);
+
+  // System.out.printf("%d - %s - %d, %s (%d, %d votos) / %s (%d, %d votos)\n", i,
+  // p.getNome().toUpperCase(),
+  // p.getNumero(),
+  // primeiroCandidato.getNome(),
+  // primeiroCandidato.getNumero(), primeiroCandidato.getVotosNominais(),
+  // ultimoCandidato.getNomeUrna(),
+  // ultimoCandidato.getNumero(), ultimoCandidato.getVotosNominais());
+  // }
+
+  // System.out.println();
+  //  }
+
+  // TODO: implementar
   public void relatorio9() {
+    System.out.println("não implementado");
   }
 
   public void relatorio10() {
+    System.out.println("Eleitos, por sexo:");
+    ArrayList<Candidato> eleitos = this.retornaCandidatosEleitos();
+
+    int homem = 0, mulher = 0;
+    for (Candidato c : eleitos) {
+      if (c.getSexo().equals("M")) {
+        homem++;
+      } else {
+        mulher++;
+      }
+    }
+
+    System.out.printf("Feminino: %d (%.2f%%)\n", mulher, calculaPorcentagem(eleitos.size(), mulher));
+    System.out.printf("Masculino: %d (%.2f%%)\n", homem, calculaPorcentagem(eleitos.size(), homem));
   }
 
   public void relatorio11() {
