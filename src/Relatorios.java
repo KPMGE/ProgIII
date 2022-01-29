@@ -3,6 +3,7 @@ import java.io.FileReader;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.time.Period;
 import java.util.Calendar;
 import java.util.Collections;
 import java.util.ArrayList;
@@ -172,8 +173,8 @@ public class Relatorios {
     return total;
   }
 
-  private float calculaPorcentagem(float num1, float num2) {
-    return (100 * num2) / num1;
+  private float calculaPorcentagem(float total, float num) {
+    return (100 * num) / total;
   }
 
   public Relatorios(String csvPartidos, String csvCandidatos) {
@@ -317,11 +318,84 @@ public class Relatorios {
   // }
 
   // System.out.println();
-  //  }
+  // }
 
-  // TODO: implementar
+  private static int calculaIdade(Calendar dataNascimento, Calendar dataAtual) {
+    int anoNascimento = dataNascimento.get(Calendar.YEAR);
+    int mesNascimento = dataNascimento.get(Calendar.MONTH);
+    int diaNascimento = dataNascimento.get(Calendar.DAY_OF_MONTH);
+
+    int anoAtual = dataAtual.get(Calendar.YEAR);
+    int mesAtual = dataAtual.get(Calendar.MONTH);
+    int diaAtual = dataAtual.get(Calendar.DAY_OF_MONTH);
+
+    int idade = anoAtual - anoNascimento;
+
+    // se o mês de anoNascimento for maior que o mês atual, ou então se, sendo o
+    // mesmo mês, mas o dia de nascimento
+    // é maior que o dia atual, então sabemos que a pessoa não fez aniversário
+    // ainda, logo, retornamos --idade.
+    if (mesNascimento > mesAtual || ((mesAtual == mesNascimento) && (diaNascimento > diaAtual))) {
+      return --idade;
+    }
+
+    return idade;
+  }
+
   public void relatorio9() {
-    System.out.println("não implementado");
+    // quantidade de candidatos em cada faixa etária
+    int qtdMenor30 = 0;
+    int qtdEntre30e40 = 0;
+    int qtdEntre40e50 = 0;
+    int qtdEntre50e60 = 0;
+    int qtdMaior60 = 0;
+
+    Calendar date = Calendar.getInstance();
+    date.set(2020, 11, 15);
+
+    // todos os candidatos eleitos
+    ArrayList<Candidato> eleitos = retornaCandidatosEleitos();
+
+    for (Candidato c : eleitos) {
+      int idade = calculaIdade(c.getDataNascimento(), date);
+
+      if (idade < 30) {
+        qtdMenor30++;
+        continue;
+      }
+
+      if (idade < 40) {
+        qtdEntre30e40++;
+        continue;
+      }
+
+      if (idade < 50) {
+        qtdEntre40e50++;
+        continue;
+      }
+
+      if (idade < 60) {
+        qtdEntre50e60++;
+        continue;
+      }
+
+      qtdMaior60++;
+    }
+
+    int totalCandidatos = eleitos.size();
+
+    // exibe a distribuição etária, formatada
+    System.out.println("eleitos: " + totalCandidatos);
+    System.out.printf("      Idade < 30: %d (%.2f%%)\n", qtdMenor30,
+        calculaPorcentagem(totalCandidatos, qtdMenor30));
+    System.out.printf("30 <= Idade < 40: %d (%.2f%%)\n", qtdEntre30e40,
+        calculaPorcentagem(totalCandidatos, qtdEntre30e40));
+    System.out.printf("40 <= Idade < 50: %d (%.2f%%)\n", qtdEntre40e50,
+        calculaPorcentagem(totalCandidatos, qtdEntre40e50));
+    System.out.printf("50 <= Idade < 60: %d (%.2f%%)\n", qtdEntre50e60,
+        calculaPorcentagem(totalCandidatos, qtdEntre50e60));
+    System.out.printf("60 <= Idade     : %d (%.2f%%)\n", qtdMaior60,
+        calculaPorcentagem(totalCandidatos, qtdMaior60));
   }
 
   public void relatorio10() {
