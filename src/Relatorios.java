@@ -11,6 +11,7 @@ import java.util.ArrayList;
 public class Relatorios {
   private ArrayList<Partido> listaPartidos = new ArrayList<Partido>();
   private ArrayList<Candidato> listaCandidatos = new ArrayList<Candidato>();
+  private Calendar dataEleicao;
 
   private void lePartidos(String csvPartidos) {
     try {
@@ -177,7 +178,7 @@ public class Relatorios {
     return (100 * num) / total;
   }
 
-  public Relatorios(String csvPartidos, String csvCandidatos) {
+  public Relatorios(String csvPartidos, String csvCandidatos, Calendar dataEleicao) {
     // lê os partidos e adiciona-os à lista de partidos
     this.lePartidos(csvPartidos);
     // lê os candidatos e adiciona-os à lista de candidatos
@@ -185,6 +186,7 @@ public class Relatorios {
     // cria o relacionamento entre os candidatos e partidos (cada partido tem uma
     // lista de candidatos, e cada candidato tem um partido associado)
     this.relacionaPartidoComCandidatos();
+    this.dataEleicao = dataEleicao;
   }
 
   public void relatorio1() {
@@ -350,14 +352,11 @@ public class Relatorios {
     int qtdEntre50e60 = 0;
     int qtdMaior60 = 0;
 
-    Calendar date = Calendar.getInstance();
-    date.set(2020, 11, 15);
-
     // todos os candidatos eleitos
     ArrayList<Candidato> eleitos = retornaCandidatosEleitos();
 
     for (Candidato c : eleitos) {
-      int idade = calculaIdade(c.getDataNascimento(), date);
+      int idade = calculaIdade(c.getDataNascimento(), this.dataEleicao);
 
       if (idade < 30) {
         qtdMenor30++;

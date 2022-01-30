@@ -1,6 +1,27 @@
+import java.util.Calendar;
+
 public class Main {
   public static void main(String[] args) {
-    Relatorios relatorios = new Relatorios("./input/partidos.csv", "./input/candidatos.csv");
+    if (args.length < 3) {
+      System.out.println("Erro! Passe todos os parâmetros!");
+      System.exit(1);
+    }
+
+    final String csvPartidos = args[0];
+    final String csvCandidatos = args[1];
+    final String dataString = args[2];
+
+    String[] dadosData = dataString.split("/");
+    int ano = Integer.parseInt(dadosData[2]);
+    int mes = Integer.parseInt(dadosData[1]);
+    int dia = Integer.parseInt(dadosData[0]);
+
+    Calendar dataEleicao = Calendar.getInstance();
+    dataEleicao.set(ano, mes, dia);
+
+    Relatorios relatorios = new Relatorios(csvPartidos, csvCandidatos, dataEleicao);
+
+    System.out.println(args[0]);
 
     // relatorios.relatorio1();
     // relatorios.relatorio2();
