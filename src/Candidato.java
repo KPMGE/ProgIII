@@ -19,19 +19,7 @@ public class Candidato {
     this.dataNascimento = dataNascimento;
   }
 
-  public void exibeCandidato() {
-    System.out.println("Nome: " + this.nome);
-    System.out.println("Nome Urna: " + this.nomeUrna);
-    System.out.println("Numero: " + this.numero);
-    System.out.println("Numero Partido: " + this.numeroPartido);
-    System.out.println("Situcão: " + this.situacao);
-    System.out.println("Sexo: " + this.sexo);
-    System.out.println("Votos Nominais: " + this.votosNominais);
-    System.out.println("Destino Voto: " + this.destinoVoto);
-    System.out.printf("Data dataNascimento: %tc\n", this.dataNascimento);
-    System.out.println();
-  }
-
+  
   public void setPartido(Partido partido) {
     this.partido = partido;
   }
