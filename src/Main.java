@@ -36,7 +36,7 @@ public class Main {
     Relatorios.relatorio1(listaCandidatos);
     Relatorios.relatorio2(listaCandidatos);
     Relatorios.relatorio3(listaCandidatos);
-    Relatorios.relatorio4(listaCandidatos);
+    // Relatorios.relatorio4(listaCandidatos);
     Relatorios.relatorio5(listaCandidatos);
     Relatorios.relatorio6(listaPartidos);
     Relatorios.relatorio7(listaPartidos);
