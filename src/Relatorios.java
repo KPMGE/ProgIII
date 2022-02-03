@@ -52,6 +52,7 @@ public class Relatorios {
 
   public static void relatorio4(ArrayList<Candidato> listaCandidatos) {
     System.out.println("Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:");
+    System.out.println("(com sua posição no ranking de mais votados)");
 
     // clonando lista de candidatos e ordenando-a
     ArrayList<Candidato> candidatosMaisVotados = new ArrayList<Candidato>(listaCandidatos);
@@ -74,6 +75,7 @@ public class Relatorios {
 
   public static void relatorio5(ArrayList<Candidato> listaCandidatos) {
     System.out.println("Eleitos, que se beneficiaram do sistema proporcional:");
+    System.out.println("(com sua posição no ranking de mais votados)");
 
     // clonando lista de candidatos e ordenando-a
     ArrayList<Candidato> candidatosMaisVotados = new ArrayList<Candidato>(listaCandidatos);
@@ -156,14 +158,14 @@ public class Relatorios {
 
     for (int i = 0; i < partidos.size(); i++) {
       Partido p = partidos.get(i);
+
       if(p.getTotalVotosValidos() > 0) {
+        ArrayList<Candidato> candidatos = new ArrayList<Candidato>(p.getListaCandidatos());
 
-        ArrayList<Candidato> listaCandidatos = p.getListaCandidatos();
-        Collections.sort(listaCandidatos, new ComparadorCandidatoVotosNominais());
+        Collections.sort(candidatos, new ComparadorCandidatoVotosNominais());
 
-        Candidato primeiroCandidato = listaCandidatos.get(0);
-        Candidato ultimoCandidato =
-        listaCandidatos.get(listaCandidatos.size() - 1);
+        Candidato primeiroCandidato = candidatos.get(0);
+        Candidato ultimoCandidato = candidatos.get(candidatos.size() - 1);
 
         String mensagemPrimeiro = primeiroCandidato.getVotosNominais() > 1 ? "votos" : "voto";
         String mensagemUltimo = ultimoCandidato.getVotosNominais() > 1 ? "votos" : "voto";
@@ -264,7 +266,7 @@ public class Relatorios {
     System.out.println("Total de votos válidos:    " + totalVotosValidos);
     System.out.printf("Total de votos nominais:   %d (%.2f%%)\n", totalVotosNominais,
         Utilitarios.calculaPorcentagem(totalVotosValidos, totalVotosNominais));
-    System.out.printf("Total de votos de legenda: %d (%.2f%%)\n", totalVotosLegenda,
+    System.out.printf("Total de votos de legenda: %d (%.2f%%)\n\n", totalVotosLegenda,
         Utilitarios.calculaPorcentagem(totalVotosValidos, totalVotosLegenda));
   }
 }

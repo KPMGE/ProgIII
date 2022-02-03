@@ -21,10 +21,13 @@ public class Partido {
   }
 
   public Candidato getCandidatoMaisVotado() {
+    if(candidatos.size() > 0){
     ArrayList<Candidato> listaCandidatos = this.candidatos;
     Collections.sort(listaCandidatos, new ComparadorCandidatoVotosNominais());
 
     return listaCandidatos.get(0);
+    }
+    return null;
   }
 
   public void adicionaCandidato(Candidato candidato) {

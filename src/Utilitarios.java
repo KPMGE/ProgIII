@@ -80,10 +80,12 @@ public class Utilitarios {
         dataNascimento.set(ano, mes, dia);
 
         // criando novo candidato e salvando-o na lista
-        Candidato novoCandidato = new Candidato(numero, votosNominais, numeroPartido, situacao, nome, nomeUrna,
+        if(destinoVoto.equals("Válido")) {
+          Candidato novoCandidato = new Candidato(numero, votosNominais, numeroPartido, situacao, nome, nomeUrna,
             destinoVoto, sexo, dataNascimento);
 
-        listaCandidatos.add(novoCandidato);
+          listaCandidatos.add(novoCandidato);
+        }
       }
 
       reader.close();
