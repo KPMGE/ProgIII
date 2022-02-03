@@ -65,7 +65,7 @@ public class Utilitarios {
         int votosNominais = Integer.parseInt(dadosLinha[1]);
         String situacao = dadosLinha[2];
         String nome = dadosLinha[3];
-        String nomeUrna = dadosLinha[4];
+        String nomeUrna = dadosLinha[4].trim();
         String sexo = dadosLinha[5];
         String dataNascimentoString = dadosLinha[6];
         String destinoVoto = dadosLinha[7];

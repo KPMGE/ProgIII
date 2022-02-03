@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.*;
 
 public class Partido {
   private int numero, votosLegenda;
@@ -18,6 +18,13 @@ public class Partido {
     System.out.println("sigla: " + this.sigla);
     System.out.println("Votos Legenda: " + this.votosLegenda);
     System.out.println();
+  }
+
+  public Candidato getCandidatoMaisVotado() {
+    ArrayList<Candidato> listaCandidatos = this.candidatos;
+    Collections.sort(listaCandidatos, new ComparadorCandidatoVotosNominais());
+
+    return listaCandidatos.get(0);
   }
 
   public void adicionaCandidato(Candidato candidato) {

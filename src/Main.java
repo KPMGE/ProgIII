@@ -1,5 +1,6 @@
 import java.util.Calendar;
 import java.util.ArrayList;
+import java.util.Locale;
 
 public class Main {
   public static void main(String[] args) {
@@ -32,15 +33,20 @@ public class Main {
      */
     Utilitarios.relacionaPartidoComCandidatos(listaPartidos, listaCandidatos);
 
+    Locale locale = new Locale("pt", "BR");    
+    // define o Locale padrão da JVM
+    Locale.setDefault(locale);
+
+
     // gerando os relatórios.
     Relatorios.relatorio1(listaCandidatos);
     Relatorios.relatorio2(listaCandidatos);
     Relatorios.relatorio3(listaCandidatos);
-    // Relatorios.relatorio4(listaCandidatos);
+    Relatorios.relatorio4(listaCandidatos);
     Relatorios.relatorio5(listaCandidatos);
     Relatorios.relatorio6(listaPartidos);
     Relatorios.relatorio7(listaPartidos);
-    // relatorios.relatorio8();
+    Relatorios.relatorio8(listaPartidos);
     Relatorios.relatorio9(listaCandidatos, dataEleicao);
     Relatorios.relatorio10(listaCandidatos);
     Relatorios.relatorio11(listaPartidos);
