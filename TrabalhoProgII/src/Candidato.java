@@ -1,9 +1,10 @@
 import java.util.Calendar;
 
-public abstract class Candidato {
+public class Candidato {
   private int numero, votosNominais, numeroPartido;
   private String situacao, nome, nomeUrna, destinoVoto, sexo;
   private Calendar dataNascimento;
+  private Partido partido;
 
   public Candidato(int numero, int votosNominais, int numeroPartido, String situacao, String nome, String nomeUrna,
       String destinoVoto, String sexo, Calendar dataNascimento) {
@@ -16,6 +17,15 @@ public abstract class Candidato {
     this.destinoVoto = destinoVoto;
     this.sexo = sexo;
     this.dataNascimento = dataNascimento;
+  }
+
+  
+  public void setPartido(Partido partido) {
+    this.partido = partido;
+  }
+
+  public Partido getPartido() {
+    return this.partido;
   }
 
   public int getNumero() {

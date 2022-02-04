@@ -1,0 +1,152 @@
+Número de vagas: 17
+
+Vereadores eleitos:
+1 - ROGÉRIO CARDOSO SILVEIRA / ROGÉRIO CARDOSO (DEM, 3763 votos)
+2 - BRUNO RODRIGUES LORENZUTTI / BRUNO LORENZUTTI (PODE, 3529 votos)
+3 - ANADELSO PEREIRA / ANADELSO PEREIRA (PODE, 3255 votos)
+4 - PATRÍCIA CRIZANTO DA SILVA / PATRÍCIA CRIZANTO (PSB, 2935 votos)
+5 - JOEL RANGEL PINTO JUNIOR / JOEL RANGEL (PTB, 2618 votos)
+6 - LEO VICTOR DAMASCENA SALLES / LEO PINDOBA (PTC, 2160 votos)
+7 - OSVALDO MATURANO / OSVALDO MATURANO (PSDB, 2148 votos)
+8 - JONIMAR SANTOS OLIVEIRA / JONIMAR (PSC, 2096 votos)
+9 - WELBER LUIZ DE SOUZA / WELBER DA SEGURANÇA (PSDB, 2057 votos)
+10 - RENZO RAMALHO MENDES / RENZO MENDES (PP, 1973 votos)
+11 - FLÁVIO DE SOUZA PIRES / FLAVIO PIRES (PTC, 1830 votos)
+12 - FABIO NOGUEIRA TELLES / FABIO DO VALE (PATRIOTA, 1810 votos)
+13 - DEVACIR RABELLO DA SILVA / DEVACIR RABELLO (DC, 1633 votos)
+14 - ROMULO HENRIQUE LACERDA / ROMULO LACERDA (PSL, 1602 votos)
+15 - DEVANIR FERREIRA / DEVANIR FERREIRA (REPUBLICANOS, 1507 votos)
+16 - JOÃO BATISTA BARBOZA / TITA (PSD, 1354 votos)
+17 - D'ORLEANS TRINDADE VAZ / D'ORLEANS SAGAIS (PV, 1282 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - ROGÉRIO CARDOSO SILVEIRA / ROGÉRIO CARDOSO (DEM, 3763 votos)
+2 - BRUNO RODRIGUES LORENZUTTI / BRUNO LORENZUTTI (PODE, 3529 votos)
+3 - IVAN CARLINI / IVAN CARLINI (DEM, 3502 votos)
+4 - ANADELSO PEREIRA / ANADELSO PEREIRA (PODE, 3255 votos)
+5 - PATRÍCIA CRIZANTO DA SILVA / PATRÍCIA CRIZANTO (PSB, 2935 votos)
+6 - JOEL RANGEL PINTO JUNIOR / JOEL RANGEL (PTB, 2618 votos)
+7 - LEO VICTOR DAMASCENA SALLES / LEO PINDOBA (PTC, 2160 votos)
+8 - OSVALDO MATURANO / OSVALDO MATURANO (PSDB, 2148 votos)
+9 - MARCOS ANTONIO RODRIGUES / MARCOS RODRIGUES (DEM, 2099 votos)
+10 - JONIMAR SANTOS OLIVEIRA / JONIMAR (PSC, 2096 votos)
+11 - WELBER LUIZ DE SOUZA / WELBER DA SEGURANÇA (PSDB, 2057 votos)
+12 - RENZO RAMALHO MENDES / RENZO MENDES (PP, 1973 votos)
+13 - HELIOSANDRO MATTOS SILVA / PROFESSOR HELIOSANDRO (PDT, 1878 votos)
+14 - ARLETE DA SILVA SANTIAGO / DONA ARLETE (PSC, 1863 votos)
+15 - FLÁVIO DE SOUZA PIRES / FLAVIO PIRES (PTC, 1830 votos)
+16 - FABIO NOGUEIRA TELLES / FABIO DO VALE (PATRIOTA, 1810 votos)
+17 - SANDRA MEDEIROS FREITAS GUZZO / SANDRA FREITAS (PSDB, 1793 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+3 - IVAN CARLINI / IVAN CARLINI (DEM, 3502 votos)
+9 - MARCOS ANTONIO RODRIGUES / MARCOS RODRIGUES (DEM, 2099 votos)
+13 - HELIOSANDRO MATTOS SILVA / PROFESSOR HELIOSANDRO (PDT, 1878 votos)
+14 - ARLETE DA SILVA SANTIAGO / DONA ARLETE (PSC, 1863 votos)
+17 - SANDRA MEDEIROS FREITAS GUZZO / SANDRA FREITAS (PSDB, 1793 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+20 - DEVACIR RABELLO DA SILVA / DEVACIR RABELLO (DC, 1633 votos)
+21 - ROMULO HENRIQUE LACERDA / ROMULO LACERDA (PSL, 1602 votos)
+25 - DEVANIR FERREIRA / DEVANIR FERREIRA (REPUBLICANOS, 1507 votos)
+29 - JOÃO BATISTA BARBOZA / TITA (PSD, 1354 votos)
+36 - D'ORLEANS TRINDADE VAZ / D'ORLEANS SAGAIS (PV, 1282 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PSDB - 45, 20041 votos (18090 nominais e 1951 de legenda), 2 candidatos eleitos
+2 - PODE - 19, 15485 votos (13824 nominais e 1661 de legenda), 2 candidatos eleitos
+3 - PTC - 36, 15253 votos (15120 nominais e 133 de legenda), 2 candidatos eleitos
+4 - PP - 11, 14605 votos (14335 nominais e 270 de legenda), 1 candidato eleito
+5 - DEM - 25, 13351 votos (13145 nominais e 206 de legenda), 1 candidato eleito
+6 - PATRIOTA - 51, 12570 votos (12441 nominais e 129 de legenda), 1 candidato eleito
+7 - PSB - 40, 11885 votos (11710 nominais e 175 de legenda), 1 candidato eleito
+8 - REPUBLICANOS - 10, 11550 votos (11188 nominais e 362 de legenda), 1 candidato eleito
+9 - PSC - 20, 9885 votos (9740 nominais e 145 de legenda), 1 candidato eleito
+10 - DC - 27, 9786 votos (9717 nominais e 69 de legenda), 1 candidato eleito
+11 - PSD - 55, 9543 votos (8030 nominais e 1513 de legenda), 1 candidato eleito
+12 - PSL - 17, 8838 votos (8356 nominais e 482 de legenda), 1 candidato eleito
+13 - PTB - 14, 8344 votos (8198 nominais e 146 de legenda), 1 candidato eleito
+14 - PV - 43, 7946 votos (7819 nominais e 127 de legenda), 1 candidato eleito
+15 - PDT - 12, 7161 votos (6854 nominais e 307 de legenda), 0 candidato eleito
+16 - SOLIDARIEDADE - 77, 5651 votos (5577 nominais e 74 de legenda), 0 candidato eleito
+17 - PT - 13, 4660 votos (4124 nominais e 536 de legenda), 0 candidato eleito
+18 - REDE - 18, 3993 votos (3760 nominais e 233 de legenda), 0 candidato eleito
+19 - NOVO - 30, 3956 votos (3483 nominais e 473 de legenda), 0 candidato eleito
+20 - PROS - 90, 3611 votos (3579 nominais e 32 de legenda), 0 candidato eleito
+21 - AVANTE - 70, 1967 votos (1927 nominais e 40 de legenda), 0 candidato eleito
+22 - PC do B - 65, 1847 votos (1807 nominais e 40 de legenda), 0 candidato eleito
+23 - PSOL - 50, 1758 votos (1208 nominais e 550 de legenda), 0 candidato eleito
+24 - MDB - 15, 1225 votos (1046 nominais e 179 de legenda), 0 candidato eleito
+25 - CIDADANIA - 23, 783 votos (672 nominais e 111 de legenda), 0 candidato eleito
+
+Votação dos partidos (apenas votos de legenda):
+1 - PSDB - 45, 1951 votos de legenda (9,74% do total do partido)
+2 - PODE - 19, 1661 votos de legenda (10,73% do total do partido)
+3 - PSD - 55, 1513 votos de legenda (15,85% do total do partido)
+4 - PSOL - 50, 550 votos de legenda (31,29% do total do partido)
+5 - PT - 13, 536 votos de legenda (11,50% do total do partido)
+6 - PSL - 17, 482 votos de legenda (5,45% do total do partido)
+7 - NOVO - 30, 473 votos de legenda (11,96% do total do partido)
+8 - REPUBLICANOS - 10, 362 votos de legenda (3,13% do total do partido)
+9 - PDT - 12, 307 votos de legenda (4,29% do total do partido)
+10 - PP - 11, 270 votos de legenda (1,85% do total do partido)
+11 - REDE - 18, 233 votos de legenda (5,84% do total do partido)
+12 - DEM - 25, 206 votos de legenda (1,54% do total do partido)
+13 - MDB - 15, 179 votos de legenda (14,61% do total do partido)
+14 - PSB - 40, 175 votos de legenda (1,47% do total do partido)
+15 - PTB - 14, 146 votos de legenda (1,75% do total do partido)
+16 - PSC - 20, 145 votos de legenda (1,47% do total do partido)
+17 - PTC - 36, 133 votos de legenda (0,87% do total do partido)
+18 - PATRIOTA - 51, 129 votos de legenda (1,03% do total do partido)
+19 - PV - 43, 127 votos de legenda (1,60% do total do partido)
+20 - CIDADANIA - 23, 111 votos de legenda (14,18% do total do partido)
+21 - SOLIDARIEDADE - 77, 74 votos de legenda (1,31% do total do partido)
+22 - DC - 27, 69 votos de legenda (0,71% do total do partido)
+23 - AVANTE - 70, 40 votos de legenda (2,03% do total do partido)
+24 - PC do B - 65, 40 votos de legenda (2,17% do total do partido)
+25 - PROS - 90, 32 votos de legenda (0,89% do total do partido)
+
+Primeiro e último colocados de cada partido:
+1 - DEM - 25, ROGÉRIO CARDOSO (25777, 3763 votos) / ANNE (25155, 7 votos)
+2 - PODE - 19, BRUNO LORENZUTTI (19000, 3529 votos) / SORAYA LIMA (19615, 55 votos)
+3 - PSB - 40, PATRÍCIA CRIZANTO (40123, 2935 votos) / EUGÊNIO CARVALHO (40600, 58 votos)
+4 - PTB - 14, JOEL RANGEL (14500, 2618 votos) / MAURA (14027, 0 voto)
+5 - PTC - 36, LEO PINDOBA (36333, 2160 votos) / MARA RUBIA GOGGE (36987, 26 votos)
+6 - PSDB - 45, OSVALDO MATURANO (45000, 2148 votos) / SYGRID CORRETORA (45900, 72 votos)
+7 - PSC - 20, JONIMAR (20333, 2096 votos) / XUXA (20001, 3 votos)
+8 - PP - 11, RENZO MENDES (11011, 1973 votos) / ELIZETE (11456, 30 votos)
+9 - PDT - 12, PROFESSOR HELIOSANDRO (12700, 1878 votos) / ZAZÁ CÂNDIDO (12100, 2 votos)
+10 - PATRIOTA - 51, FABIO DO VALE (51111, 1810 votos) / VOURODIMOS PATRIOTA (51122, 11 votos)
+11 - DC - 27, DEVACIR RABELLO (27444, 1633 votos) / WANESSA LIMA (27077, 3 votos)
+12 - PSL - 17, ROMULO LACERDA (17777, 1602 votos) / SABRINA SCHMID (17007, 5 votos)
+13 - REPUBLICANOS - 10, DEVANIR FERREIRA (10123, 1507 votos) / TIO RONALDO (10573, 14 votos)
+14 - PSD - 55, TITA (55222, 1354 votos) / CLOVINHO (55882, 4 votos)
+15 - NOVO - 30, JÂNIO ARAUJO (30123, 1323 votos) / ANA LÍGIA FARINELLI (30003, 149 votos)
+16 - PROS - 90, MARCOS SOUZA MARQUINHOS (90123, 1284 votos) / PRISCILA BARROS (90001, 3 votos)
+17 - PV - 43, D'ORLEANS SAGAIS (43333, 1282 votos) / ELIAS MIGUEL (43999, 18 votos)
+18 - REDE - 18, PROFESSOR ROSSONI (18000, 1169 votos) / SANDRA BAIANA (18133, 16 votos)
+19 - SOLIDARIEDADE - 77, JULIO MOTORISTA (77507, 1146 votos) / PENHA PIN BELLUMAT (77789, 3 votos)
+20 - PT - 13, IZANILDO SABINO (13580, 841 votos) / AMBROSIO RIVA JUNIOR BROBRO (13800, 113 votos)
+21 - PSOL - 50, LEANDRA MENDES DA SILVA PIFFER (50123, 773 votos) / PROFESSOR AILTO VARGAS (50350, 435 votos)
+22 - MDB - 15, BRUNNO COSTA (15100, 703 votos) / LUIZ CARLOS DA SAUDE (15112, 59 votos)
+23 - PC do B - 65, BETO BORRACHEIRO (65678, 625 votos) / LUANNA CUSTODIO (65100, 23 votos)
+24 - AVANTE - 70, MÁCIO DO SALÃO (70007, 546 votos) / DANIELLE CRUZ (70070, 1 voto)
+25 - CIDADANIA - 23, PERITO CHAMOUN (23222, 506 votos) / ALESSANDRA (23333, 65 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+      Idade < 30: 1 (5,88%)
+30 <= Idade < 40: 5 (29,41%)
+40 <= Idade < 50: 7 (41,18%)
+50 <= Idade < 60: 3 (17,65%)
+60 <= Idade     : 1 (5,88%)
+
+Eleitos, por sexo:
+Feminino:  1 (5,88%)
+Masculino: 16 (94,12%)
+
+Total de votos válidos:    205694
+Total de votos nominais:   195750 (95,17%)
+Total de votos de legenda: 9944 (4,83%)
+
