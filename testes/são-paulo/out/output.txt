@@ -1,0 +1,258 @@
+Número de vagas: 55
+
+Vereadores eleitos:
+1 - EDUARDO MATARAZZO SUPLICY / EDUARDO SUPLICY (PT, 167552 votos)
+2 - MILTON LEITE DA SILVA / MILTON LEITE (DEM, 132716 votos)
+3 - MARIO PALUMBO JUNIOR / DELEGADO PALUMBO (MDB, 118395 votos)
+4 - FELIPE BECARI COMENALE / FELIPE BECARI (PSD, 98717 votos)
+5 - FERNANDO HOLIDAY SILVA BISPO / FERNANDO HOLIDAY (PATRIOTA, 67715 votos)
+6 - ERIKA SANTOS SILVA / ERIKA HILTON (PSOL, 50508 votos)
+7 - SILVIA ANDREA FERRARO / SILVIA DA BANCADA FEMINISTA (PSOL, 46267 votos)
+8 - JOSE ROBERTO NAZELLO DE ALVARENGA TRÍPOLI / ROBERTO TRIPOLI (PV, 46219 votos)
+9 - THAMMY BRITO DE MIRANDA E SILVA / THAMMY MIRANDA (PL, 43321 votos)
+10 - ANDRÉ LUIZ SANTOS ESTEVES / ANDRÉ SANTOS (REPUBLICANOS, 41584 votos)
+11 - RUTE FREIRE DA COSTA SILVA / RUTE COSTA (PSDB, 41546 votos)
+12 - EDUARDO TUMA / EDUARDO TUMA (PSDB, 40270 votos)
+13 - SANSÃO PEREIRA FILHO / SANSÃO PEREIRA (REPUBLICANOS, 39709 votos)
+14 - LUANA DOS SANTOS ALVES SILVA / LUANA ALVES (PSOL, 37550 votos)
+15 - ATILIO FRANCISCO DA SILVA / ATILIO FRANCISCO (REPUBLICANOS, 35345 votos)
+16 - JOÃO JORGE DE SOUZA / JOÃO JORGE (PSDB, 34323 votos)
+17 - ARNALDO FARIA DE SÁ / FARIA DE SÁ (PP, 34213 votos)
+18 - CARLOS ALBERTO DE QUADROS BEZERRA JUNIOR / CARLOS BEZERRA JR. (PSDB, 34144 votos)
+19 - RUBENS ALBERTO GATTI NUNES / RUBINHO NUNES (PATRIOTA, 33038 votos)
+20 - ANTONIO ELI CORRÊA / ELI CORRÊA (DEM, 32482 votos)
+21 - ANTONIO DONATO MADORMO / DONATO (PT, 31920 votos)
+22 - RODRIGO HAYASHI GOULART / RODRIGO GOULART (PSD, 31472 votos)
+23 - ALESSANDRO GUEDES DOS SANTOS / ALESSANDRO GUEDES (PT, 31124 votos)
+24 - JANAINA CARLA DE LIMA / JANAÍNA LIMA (NOVO, 30931 votos)
+25 - ADILSON ARMANDO CARVALHO AMADEU / ADILSON AMADEU (DEM, 30549 votos)
+26 - JOSÉ REGINALDO NAZELO DE ALVARENGA TRIPOLI / TRIPOLI (PSDB, 30495 votos)
+27 - JAIR JOSÉ TATTO / JAIR TATTO (PT, 29918 votos)
+28 - CELSO LUIS GIANNASI / CELSO GIANNAZI (PSOL, 28535 votos)
+29 - SANDRA REGINA CARBONE TADEU MUDALEN / DRA SANDRA TADEU (DEM, 28464 votos)
+30 - JULIANA CARDOSO / JULIANA CARDOSO (PT, 28402 votos)
+31 - ANTONIO BIAGIO VESPOLI / TONINHO VESPOLI (PSOL, 26748 votos)
+32 - MARLON FARIAS DA LUZ / MARLON DO UBER (PATRIOTA, 25643 votos)
+33 - GEORGE VATUTIN HATO / GEORGE HATO (MDB, 25599 votos)
+34 - AURÉLIO NOMURA / AURÉLIO NOMURA (PSDB, 25316 votos)
+35 - SENIVAL PEREIRA DE MOURA / SENIVAL MOURA (PT, 25311 votos)
+36 - ALFREDO ALVES CAVALCANTE / ALFREDINHO (PT, 25159 votos)
+37 - ARSELINO ROQUE TATTO / ARSELINO TATTO (PT, 25021 votos)
+38 - FABIO RIVA DOS SANTOS / FABIO RIVA (PSDB, 24739 votos)
+39 - ISAC FÉLIX DOS SANTOS / ISAC FÉLIX (PL, 23929 votos)
+40 - CAMILO CRISTOFARO MARTINS JUNIOR / CAMILO CRISTOFARO (PSB, 23431 votos)
+41 - RICARDO TEIXEIRA / RICARDO TEIXEIRA (DEM, 23280 votos)
+42 - EDIR SALES / EDIR SALES (PSD, 23106 votos)
+43 - ELINALVA ORTEGAS ESTANISLAU / ELY TERUEL (PODE, 23084 votos)
+44 - MARCELO MESSIAS DOS SANTOS COSTA / MARCELO MESSIAS (MDB, 23006 votos)
+45 - ELAINE CRISTINA MINEIRO / ELAINE DO QUILOMBO PERIFÉRICO (PSOL, 22742 votos)
+46 - GILBERTO NASCIMENTO SILVA JUNIOR / GILBERTO NASCIMENTO JR (PSC, 22659 votos)
+47 - ELISEU GABRIEL DE PIERI / ELISEU GABRIEL (PSB, 21122 votos)
+48 - MILTON FERREIRA DA SILVA / DR MILTON FERREIRA (PODE, 20126 votos)
+49 - SANDRA CRISTINA LEITE SANTANA / SANDRA SANTANA (PSDB, 19591 votos)
+50 - DANILO ERRERIA CORTEZ DE SOUZA / DANILO DO POSTO DE SAÚDE (PODE, 19024 votos)
+51 - CRISTINA PEREIRA MONTEIRO / CRIS MONTEIRO (NOVO, 18085 votos)
+52 - SIDNEY LUIZ DA CRUZ / DR SIDNEY CRUZ (SOLIDARIEDADE, 17899 votos)
+53 - SONAIRA FERNANDES DE SANTANA / SONAIRA FERNANDES (REPUBLICANOS, 17881 votos)
+54 - PAULO JESUS FRANGE / PAULO FRANGE (PTB, 17796 votos)
+55 - RINALDI CESAR DIGILIO / RINALDI DIGILIO (PSL, 13673 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - EDUARDO MATARAZZO SUPLICY / EDUARDO SUPLICY (PT, 167552 votos)
+2 - MILTON LEITE DA SILVA / MILTON LEITE (DEM, 132716 votos)
+3 - MARIO PALUMBO JUNIOR / DELEGADO PALUMBO (MDB, 118395 votos)
+4 - FELIPE BECARI COMENALE / FELIPE BECARI (PSD, 98717 votos)
+5 - FERNANDO HOLIDAY SILVA BISPO / FERNANDO HOLIDAY (PATRIOTA, 67715 votos)
+6 - ERIKA SANTOS SILVA / ERIKA HILTON (PSOL, 50508 votos)
+7 - SILVIA ANDREA FERRARO / SILVIA DA BANCADA FEMINISTA (PSOL, 46267 votos)
+8 - JOSE ROBERTO NAZELLO DE ALVARENGA TRÍPOLI / ROBERTO TRIPOLI (PV, 46219 votos)
+9 - THAMMY BRITO DE MIRANDA E SILVA / THAMMY MIRANDA (PL, 43321 votos)
+10 - ANDRÉ LUIZ SANTOS ESTEVES / ANDRÉ SANTOS (REPUBLICANOS, 41584 votos)
+11 - RUTE FREIRE DA COSTA SILVA / RUTE COSTA (PSDB, 41546 votos)
+12 - EDUARDO TUMA / EDUARDO TUMA (PSDB, 40270 votos)
+13 - SANSÃO PEREIRA FILHO / SANSÃO PEREIRA (REPUBLICANOS, 39709 votos)
+14 - LUANA DOS SANTOS ALVES SILVA / LUANA ALVES (PSOL, 37550 votos)
+15 - ATILIO FRANCISCO DA SILVA / ATILIO FRANCISCO (REPUBLICANOS, 35345 votos)
+16 - JOÃO JORGE DE SOUZA / JOÃO JORGE (PSDB, 34323 votos)
+17 - ARNALDO FARIA DE SÁ / FARIA DE SÁ (PP, 34213 votos)
+18 - CARLOS ALBERTO DE QUADROS BEZERRA JUNIOR / CARLOS BEZERRA JR. (PSDB, 34144 votos)
+19 - RUBENS ALBERTO GATTI NUNES / RUBINHO NUNES (PATRIOTA, 33038 votos)
+20 - ANTONIO ELI CORRÊA / ELI CORRÊA (DEM, 32482 votos)
+21 - ANTONIO DONATO MADORMO / DONATO (PT, 31920 votos)
+22 - RODRIGO HAYASHI GOULART / RODRIGO GOULART (PSD, 31472 votos)
+23 - ALESSANDRO GUEDES DOS SANTOS / ALESSANDRO GUEDES (PT, 31124 votos)
+24 - JANAINA CARLA DE LIMA / JANAÍNA LIMA (NOVO, 30931 votos)
+25 - ADILSON ARMANDO CARVALHO AMADEU / ADILSON AMADEU (DEM, 30549 votos)
+26 - JOSÉ REGINALDO NAZELO DE ALVARENGA TRIPOLI / TRIPOLI (PSDB, 30495 votos)
+27 - JAIR JOSÉ TATTO / JAIR TATTO (PT, 29918 votos)
+28 - MARCOS DAS NEVES PALUMBO / MAJOR PALUMBO (PP, 29086 votos)
+29 - CELSO LUIS GIANNASI / CELSO GIANNAZI (PSOL, 28535 votos)
+30 - SANDRA REGINA CARBONE TADEU MUDALEN / DRA SANDRA TADEU (DEM, 28464 votos)
+31 - JULIANA CARDOSO / JULIANA CARDOSO (PT, 28402 votos)
+32 - ANTONIO BIAGIO VESPOLI / TONINHO VESPOLI (PSOL, 26748 votos)
+33 - RENATA FALZONI / RENATA FALZONI (PV, 26078 votos)
+34 - MARLON FARIAS DA LUZ / MARLON DO UBER (PATRIOTA, 25643 votos)
+35 - GEORGE VATUTIN HATO / GEORGE HATO (MDB, 25599 votos)
+36 - AURÉLIO NOMURA / AURÉLIO NOMURA (PSDB, 25316 votos)
+37 - SENIVAL PEREIRA DE MOURA / SENIVAL MOURA (PT, 25311 votos)
+38 - ALFREDO ALVES CAVALCANTE / ALFREDINHO (PT, 25159 votos)
+39 - ARSELINO ROQUE TATTO / ARSELINO TATTO (PT, 25021 votos)
+40 - FABIO RIVA DOS SANTOS / FABIO RIVA (PSDB, 24739 votos)
+41 - ISAC FÉLIX DOS SANTOS / ISAC FÉLIX (PL, 23929 votos)
+42 - CAMILO CRISTOFARO MARTINS JUNIOR / CAMILO CRISTOFARO (PSB, 23431 votos)
+43 - PAULO BATISTA DOS REIS / REIS (PT, 23300 votos)
+44 - RICARDO TEIXEIRA / RICARDO TEIXEIRA (DEM, 23280 votos)
+45 - EDIR SALES / EDIR SALES (PSD, 23106 votos)
+46 - ELINALVA ORTEGAS ESTANISLAU / ELY TERUEL (PODE, 23084 votos)
+47 - MANOEL DEL RIO BLAS FILHO / MANOEL DEL RIO (PT, 23075 votos)
+48 - MARCELO MESSIAS DOS SANTOS COSTA / MARCELO MESSIAS (MDB, 23006 votos)
+49 - ELAINE CRISTINA MINEIRO / ELAINE DO QUILOMBO PERIFÉRICO (PSOL, 22742 votos)
+50 - GILBERTO NASCIMENTO SILVA JUNIOR / GILBERTO NASCIMENTO JR (PSC, 22659 votos)
+51 - JOSÉ PÓLICE NETO / POLICE NETO (PSD, 21608 votos)
+52 - JUSSARA BASSO DOS SANTOS / JUNTAS MULHERES SEM TETO (PSOL, 21172 votos)
+53 - ELISEU GABRIEL DE PIERI / ELISEU GABRIEL (PSB, 21122 votos)
+54 - HÉLIO RODRIGUES DE ANDRADE / HÉLIO RODRIGUES (PT, 20576 votos)
+55 - EDSON PIRES SALOMÃO / EDSON SALOMÃO (PRTB, 20309 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+28 - MARCOS DAS NEVES PALUMBO / MAJOR PALUMBO (PP, 29086 votos)
+33 - RENATA FALZONI / RENATA FALZONI (PV, 26078 votos)
+43 - PAULO BATISTA DOS REIS / REIS (PT, 23300 votos)
+47 - MANOEL DEL RIO BLAS FILHO / MANOEL DEL RIO (PT, 23075 votos)
+51 - JOSÉ PÓLICE NETO / POLICE NETO (PSD, 21608 votos)
+52 - JUSSARA BASSO DOS SANTOS / JUNTAS MULHERES SEM TETO (PSOL, 21172 votos)
+54 - HÉLIO RODRIGUES DE ANDRADE / HÉLIO RODRIGUES (PT, 20576 votos)
+55 - EDSON PIRES SALOMÃO / EDSON SALOMÃO (PRTB, 20309 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+56 - MILTON FERREIRA DA SILVA / DR MILTON FERREIRA (PODE, 20126 votos)
+57 - SANDRA CRISTINA LEITE SANTANA / SANDRA SANTANA (PSDB, 19591 votos)
+58 - DANILO ERRERIA CORTEZ DE SOUZA / DANILO DO POSTO DE SAÚDE (PODE, 19024 votos)
+61 - CRISTINA PEREIRA MONTEIRO / CRIS MONTEIRO (NOVO, 18085 votos)
+62 - SIDNEY LUIZ DA CRUZ / DR SIDNEY CRUZ (SOLIDARIEDADE, 17899 votos)
+63 - SONAIRA FERNANDES DE SANTANA / SONAIRA FERNANDES (REPUBLICANOS, 17881 votos)
+64 - PAULO JESUS FRANGE / PAULO FRANGE (PTB, 17796 votos)
+82 - RINALDI CESAR DIGILIO / RINALDI DIGILIO (PSL, 13673 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PT - 13, 653328 votos (562071 nominais e 91257 de legenda), 8 candidatos eleitos
+2 - PSDB - 45, 623927 votos (422350 nominais e 201577 de legenda), 8 candidatos eleitos
+3 - PSOL - 50, 444235 votos (361634 nominais e 82601 de legenda), 6 candidatos eleitos
+4 - DEM - 25, 439714 votos (429352 nominais e 10362 de legenda), 5 candidatos eleitos
+5 - REPUBLICANOS - 10, 324787 votos (278109 nominais e 46678 de legenda), 4 candidatos eleitos
+6 - PODE - 19, 267254 votos (263012 nominais e 4242 de legenda), 3 candidatos eleitos
+7 - MDB - 15, 255384 votos (245937 nominais e 9447 de legenda), 3 candidatos eleitos
+8 - PSD - 55, 255045 votos (245992 nominais e 9053 de legenda), 3 candidatos eleitos
+9 - PATRIOTA - 51, 222631 votos (181283 nominais e 41348 de legenda), 3 candidatos eleitos
+10 - NOVO - 30, 191665 votos (155634 nominais e 36031 de legenda), 2 candidatos eleitos
+11 - PSB - 40, 180895 votos (130063 nominais e 50832 de legenda), 2 candidatos eleitos
+12 - PL - 22, 166764 votos (158641 nominais e 8123 de legenda), 2 candidatos eleitos
+13 - PSL - 17, 132791 votos (119227 nominais e 13564 de legenda), 1 candidato eleito
+14 - PP - 11, 121324 votos (112278 nominais e 9046 de legenda), 1 candidato eleito
+15 - PV - 43, 113885 votos (110331 nominais e 3554 de legenda), 1 candidato eleito
+16 - PSC - 20, 81037 votos (78231 nominais e 2806 de legenda), 1 candidato eleito
+17 - SOLIDARIEDADE - 77, 77100 votos (75043 nominais e 2057 de legenda), 1 candidato eleito
+18 - PTB - 14, 74229 votos (71057 nominais e 3172 de legenda), 1 candidato eleito
+19 - PC do B - 65, 69209 votos (66804 nominais e 2405 de legenda), 0 candidato eleito
+20 - CIDADANIA - 23, 65418 votos (62966 nominais e 2452 de legenda), 0 candidato eleito
+21 - PRTB - 28, 60502 votos (58570 nominais e 1932 de legenda), 0 candidato eleito
+22 - AVANTE - 70, 58395 votos (57000 nominais e 1395 de legenda), 0 candidato eleito
+23 - PDT - 12, 54988 votos (46771 nominais e 8217 de legenda), 0 candidato eleito
+24 - REDE - 18, 51923 votos (48530 nominais e 3393 de legenda), 0 candidato eleito
+25 - PROS - 90, 21807 votos (20943 nominais e 864 de legenda), 0 candidato eleito
+26 - PTC - 36, 18352 votos (17642 nominais e 710 de legenda), 0 candidato eleito
+27 - PMN - 33, 13131 votos (12268 nominais e 863 de legenda), 0 candidato eleito
+28 - DC - 27, 9708 votos (8995 nominais e 713 de legenda), 0 candidato eleito
+29 - PMB - 35, 7640 votos (6694 nominais e 946 de legenda), 0 candidato eleito
+30 - UP - 80, 5618 votos (5067 nominais e 551 de legenda), 0 candidato eleito
+31 - PSTU - 16, 4245 votos (2701 nominais e 1544 de legenda), 0 candidato eleito
+32 - PCB - 21, 3965 votos (2624 nominais e 1341 de legenda), 0 candidato eleito
+33 - PCO - 29, 832 votos (300 nominais e 532 de legenda), 0 candidato eleito
+
+Votação dos partidos (apenas votos de legenda):
+1 - PSDB - 45, 201577 votos de legenda (32,31% do total do partido)
+2 - PT - 13, 91257 votos de legenda (13,97% do total do partido)
+3 - PSOL - 50, 82601 votos de legenda (18,59% do total do partido)
+4 - PSB - 40, 50832 votos de legenda (28,10% do total do partido)
+5 - REPUBLICANOS - 10, 46678 votos de legenda (14,37% do total do partido)
+6 - PATRIOTA - 51, 41348 votos de legenda (18,57% do total do partido)
+7 - NOVO - 30, 36031 votos de legenda (18,80% do total do partido)
+8 - PSL - 17, 13564 votos de legenda (10,21% do total do partido)
+9 - DEM - 25, 10362 votos de legenda (2,36% do total do partido)
+10 - MDB - 15, 9447 votos de legenda (3,70% do total do partido)
+11 - PSD - 55, 9053 votos de legenda (3,55% do total do partido)
+12 - PP - 11, 9046 votos de legenda (7,46% do total do partido)
+13 - PDT - 12, 8217 votos de legenda (14,94% do total do partido)
+14 - PL - 22, 8123 votos de legenda (4,87% do total do partido)
+15 - PODE - 19, 4242 votos de legenda (1,59% do total do partido)
+16 - PV - 43, 3554 votos de legenda (3,12% do total do partido)
+17 - REDE - 18, 3393 votos de legenda (6,53% do total do partido)
+18 - PTB - 14, 3172 votos de legenda (4,27% do total do partido)
+19 - PSC - 20, 2806 votos de legenda (3,46% do total do partido)
+20 - CIDADANIA - 23, 2452 votos de legenda (3,75% do total do partido)
+21 - PC do B - 65, 2405 votos de legenda (3,47% do total do partido)
+22 - SOLIDARIEDADE - 77, 2057 votos de legenda (2,67% do total do partido)
+23 - PRTB - 28, 1932 votos de legenda (3,19% do total do partido)
+24 - PSTU - 16, 1544 votos de legenda (36,37% do total do partido)
+25 - AVANTE - 70, 1395 votos de legenda (2,39% do total do partido)
+26 - PCB - 21, 1341 votos de legenda (33,82% do total do partido)
+27 - PMB - 35, 946 votos de legenda (12,38% do total do partido)
+28 - PROS - 90, 864 votos de legenda (3,96% do total do partido)
+29 - PMN - 33, 863 votos de legenda (6,57% do total do partido)
+30 - DC - 27, 713 votos de legenda (7,34% do total do partido)
+31 - PTC - 36, 710 votos de legenda (3,87% do total do partido)
+32 - UP - 80, 551 votos de legenda (9,81% do total do partido)
+33 - PCO - 29, 532 votos de legenda (63,94% do total do partido)
+
+Primeiro e último colocados de cada partido:
+1 - PT - 13, EDUARDO SUPLICY (13131, 167552 votos) / CRISTIANE ARAÚJO (13433, 38 votos)
+2 - DEM - 25, MILTON LEITE (25250, 132716 votos) / SHIRLEY DAMASCENA (25180, 148 votos)
+3 - MDB - 15, DELEGADO PALUMBO (15000, 118395 votos) / ODALIA DA CONCEIÇÃO ALCANTARA (15149, 49 votos)
+4 - PSD - 55, FELIPE BECARI (55070, 98717 votos) / MIRIAM DE SOUZA (55066, 93 votos)
+5 - PATRIOTA - 51, FERNANDO HOLIDAY (51000, 67715 votos) / SONIA RIBEIRO (51097, 97 votos)
+6 - PSOL - 50, ERIKA HILTON (50700, 50508 votos) / CARLOS FERREIRA (50450, 85 votos)
+7 - PV - 43, ROBERTO TRIPOLI (43666, 46219 votos) / GUIMA (43034, 8 votos)
+8 - PL - 22, THAMMY MIRANDA (22000, 43321 votos) / ROSÁRIO DE FÁTIMA (22909, 9 votos)
+9 - REPUBLICANOS - 10, ANDRÉ SANTOS (10456, 41584 votos) / ELA (10830, 14 votos)
+10 - PSDB - 45, RUTE COSTA (45000, 41546 votos) / JOÃO BATISTA (45665, 98 votos)
+11 - PP - 11, FARIA DE SÁ (11152, 34213 votos) / ROBERTO MOTA (11674, 61 votos)
+12 - NOVO - 30, JANAÍNA LIMA (30300, 30931 votos) / ALÊ FASANO (30007, 338 votos)
+13 - PSB - 40, CAMILO CRISTOFARO (40400, 23431 votos) / WILSON FERREIRA (40880, 65 votos)
+14 - PODE - 19, ELY TERUEL (19001, 23084 votos) / LUCIANA STEAGALL (19188, 135 votos)
+15 - PSC - 20, GILBERTO NASCIMENTO JR (20200, 22659 votos) / PROFESSOR LUCIANO (20564, 30 votos)
+16 - PRTB - 28, EDSON SALOMÃO (28321, 20309 votos) / VALÉRIA TAVARES (28176, 1 voto)
+17 - SOLIDARIEDADE - 77, DR SIDNEY CRUZ (77002, 17899 votos) / BELO DO TRANSPORTE (77302, 42 votos)
+18 - PTB - 14, PAULO FRANGE (14444, 17796 votos) / PROF ELISEU TIMOTHEO (14075, 11 votos)
+19 - CIDADANIA - 23, CLAUDIO FONSECA (23000, 15219 votos) / EREK MELO (23334, 3 votos)
+20 - PSL - 17, RINALDI DIGILIO (17444, 13673 votos) / ROSANGELA ROSA (17428, 22 votos)
+21 - REDE - 18, MARINA BRAGANTE (18333, 9710 votos) / SOU BETO GIL (18301, 1 voto)
+22 - PC do B - 65, PROF ADRIANA VASCONCELLOS (65100, 7961 votos) / GLADYS (65090, 7 votos)
+23 - PDT - 12, PROF MARCELO NASCIMENTO (12345, 7706 votos) / ROBERTO RIBEIRO (12780, 21 votos)
+24 - AVANTE - 70, RODOLFO OLIVEIRA GANEM (70100, 6803 votos) / LEANDRO SANCHES (70003, 24 votos)
+25 - PROS - 90, PROTETOR EDUARDO ROZ (90000, 4376 votos) / PROFESSORA CRISTINA (90711, 1 voto)
+26 - UP - 80, LIGIA MENDES (80000, 3220 votos) / FRENTE NEGRA ANTIRRACISTA (80100, 434 votos)
+27 - PTC - 36, MARCIO CORIERE (36000, 2575 votos) / DR FLAVIO MOTTA (36077, 7 votos)
+28 - PMN - 33, MARCELO DA SAÚDE (33300, 2055 votos) / LUCIA SOUZA (33021, 2 votos)
+29 - PCB - 21, IGOR DA JUVENTUDE TRABALHADORA (21021, 1654 votos) / CHRISTY BANCADA PODER POPULAR (21121, 970 votos)
+30 - PSTU - 16, PROFESSORA FLÁVIA (16300, 1215 votos) / ELIANA CEZARIO (16134, 64 votos)
+31 - PMB - 35, GENILDO CASTRO (35105, 1055 votos) / JAPA (35777, 30 votos)
+32 - DC - 27, DELVAM BATISTA (27012, 972 votos) / ELIANI GOUVEIA (27321, 7 votos)
+33 - PCO - 29, NATÁLIA PIMENTA (29029, 124 votos) / MAYA BASTOS (29529, 4 votos)
+
+Eleitos, por faixa etária (na data da eleição):
+      Idade < 30: 3 (5,45%)
+30 <= Idade < 40: 11 (20,00%)
+40 <= Idade < 50: 10 (18,18%)
+50 <= Idade < 60: 12 (21,82%)
+60 <= Idade     : 19 (34,55%)
+
+Eleitos, por sexo:
+Feminino:  13 (23,64%)
+Masculino: 42 (76,36%)
+
+Total de votos válidos:    5071728
+Total de votos nominais:   4418120 (87,11%)
+Total de votos de legenda: 653608 (12,89%)
+

@@ -1,0 +1,42 @@
+<project name="TrabalhoPROG3_2021_2" default="compile" basedir=".">
+  <description>Arquivo de build do trabalho de PROG3, 2021/2.</description>
+  <!-- Propriedades do build. -->
+  <property name="src" location="src" />
+  <property name="bin" location="bin" />
+  <property name="mainClass" value="Main" />
+  <!-- Inicialização. -->
+  <target name="init" description="Inicializa as estruturas necessárias.">
+    <tstamp/>
+    <mkdir dir="${bin}" />
+  </target>
+  <!-- Compilação. -->
+  <target name="compile" depends="init" description="Compila o código-fonte.">
+    <javac includeantruntime="false" srcdir="${src}" destdir="${bin}" />
+  </target>
+  <!-- Pacote. -->
+  <target name="jar" depends="compile">
+    <jar destfile="vereadores.jar" basedir="${bin}">
+      <manifest>
+        <attribute name="Main-Class" value="${mainClass}"/>
+      </manifest>
+    </jar>
+  </target>
+  <!-- Execução normal. -->
+  <target name="run" depends="compile" description="Executa
+  normal.">
+  <java classname="${mainClass}">
+    <arg value="candidatos.csv" />
+    <arg value="partidos.csv" />
+    <arg value="15/11/2020" />
+    <classpath>
+      <pathelement path="${bin}" />
+    </classpath>
+  </java>
+</target>
+
+<!-- Limpeza. -->
+<target name="clean" description="Limpa o projeto, deixando apenas o código-fonte." >
+  <delete dir="${bin}"/>
+  <delete><fileset dir="." includes="*.csv"/></delete>
+</target>
+</project>

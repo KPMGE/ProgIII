@@ -10,8 +10,8 @@ public class Main {
     }
 
     // arquivos csv e data da eleição
-    final String csvPartidos = args[0];
-    final String csvCandidatos = args[1];
+    final String csvCandidatos = args[0];
+    final String csvPartidos = args[1];
     final String dataString = args[2];
 
     // extrai os números a string dada como data
@@ -33,10 +33,9 @@ public class Main {
      */
     Utilitarios.relacionaPartidoComCandidatos(listaPartidos, listaCandidatos);
 
-    Locale locale = new Locale("pt", "BR");    
+    Locale locale = new Locale("pt", "BR");   
     // define o Locale padrão da JVM
     Locale.setDefault(locale);
-
 
     // gerando os relatórios.
     Relatorios.relatorio1(listaCandidatos);

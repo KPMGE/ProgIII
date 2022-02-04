@@ -1,0 +1,166 @@
+Número de vagas: 23
+
+Vereadores eleitos:
+1 - VALTEILTON DE FREITAS VALIM / TEILTON VALIM (PP, 3379 votos)
+2 - ADRIANO VASCONCELOS REGO / ADRIANO GALINHÃO (PSB, 3307 votos)
+3 - RODRIGO MARCIO CALDEIRA / RODRIGO CALDEIRA (PRTB, 3022 votos)
+4 - SAULO MARIANO RODRIGUES NEVES JUNIOR / SAULINHO DA ACADEMIA (PATRIOTA, 2642 votos)
+5 - PAULO SERGIO FERREIRA DE SOUZA / PAULINHO DO CHURRASQUINHO (PDT, 2538 votos)
+6 - GILMAR DADALTO / RAPOSÃO (PSDB, 2296 votos)
+7 - ERICSON TEIXEIRA DUARTE / ERICSON DUARTE (REDE, 2269 votos)
+8 - WILLIAM FERNANDO MIRANDA / DR. WILLIAM MIRANDA (PL, 2188 votos)
+9 - MARLON FRED OLIVEIRA MATOS / FRED (PSDB, 2157 votos)
+10 - IGOR ELSON BROMONSCHENKEL DE ALMEIDA / IGOR ELSON (PODE, 2151 votos)
+11 - JEFFERSON FERNANDES / JEFINHO DO BALNEÁRIO (PL, 2149 votos)
+12 - RURDINEY DA SILVA / PROFESSOR RURDINEY (PSB, 2129 votos)
+13 - ELCIMARA RANGEL LOUREIRO ALICIO / ELCIMARA LOUREIRO (PP, 2057 votos)
+14 - WILIAN SILVAROLI / WILIAN DA ELETRICA (PDT, 1941 votos)
+15 - ALEXISANDRO PESSIMILIO BULHOES / PROFESSOR ALEX BULHOES (PMN, 1894 votos)
+16 - SERGIO ANACLETO PEIXOTO COSTA / SERGIO PEIXOTO (PROS, 1886 votos)
+17 - RODRIGO FERREIRA CORREA / RODRIGO CAÇULO (REPUBLICANOS, 1858 votos)
+18 - WELLINGTON BATISTA GUISOLPE / WELLINGTON ALEMÃO (DEM, 1838 votos)
+19 - ANDERSON SOARES MUNIZ / ANDERSON MUNIZ (PODE, 1812 votos)
+20 - JOSE ARTUR OLIVEIRA COSTA / PROFESSOR ARTUR COSTA (SOLIDARIEDADE, 1771 votos)
+21 - RAPHAELA MARIA DE OLIVEIRA MORAES VASQUES / RAPHAELA MORAES (REDE, 1659 votos)
+22 - PABLO AURINO RAMOS ARAUJO / PABLO MURIBECA (PATRIOTA, 1536 votos)
+23 - CLEBER LIMA PEREIRA / CLEBER SERRINHA (PDT, 1391 votos)
+
+Candidatos mais votados (em ordem decrescente de votação e respeitando número de vagas):
+1 - VALTEILTON DE FREITAS VALIM / TEILTON VALIM (PP, 3379 votos)
+2 - ADRIANO VASCONCELOS REGO / ADRIANO GALINHÃO (PSB, 3307 votos)
+3 - RODRIGO MARCIO CALDEIRA / RODRIGO CALDEIRA (PRTB, 3022 votos)
+4 - SAULO MARIANO RODRIGUES NEVES JUNIOR / SAULINHO DA ACADEMIA (PATRIOTA, 2642 votos)
+5 - PAULO SERGIO FERREIRA DE SOUZA / PAULINHO DO CHURRASQUINHO (PDT, 2538 votos)
+6 - RENATO RIBEIRO / PROFESSOR RENATO RIBEIRO (CIDADANIA, 2359 votos)
+7 - GILMAR DADALTO / RAPOSÃO (PSDB, 2296 votos)
+8 - ERICSON TEIXEIRA DUARTE / ERICSON DUARTE (REDE, 2269 votos)
+9 - WILLIAM FERNANDO MIRANDA / DR. WILLIAM MIRANDA (PL, 2188 votos)
+10 - MARLON FRED OLIVEIRA MATOS / FRED (PSDB, 2157 votos)
+11 - IGOR ELSON BROMONSCHENKEL DE ALMEIDA / IGOR ELSON (PODE, 2151 votos)
+12 - JEFFERSON FERNANDES / JEFINHO DO BALNEÁRIO (PL, 2149 votos)
+13 - RURDINEY DA SILVA / PROFESSOR RURDINEY (PSB, 2129 votos)
+14 - ELCIMARA RANGEL LOUREIRO ALICIO / ELCIMARA LOUREIRO (PP, 2057 votos)
+15 - JOSE FABIO ARAUJO DOS SANTOS / FÁBIO LATINO (PSB, 2014 votos)
+16 - FÁBIO DE SOUZA ROSA / FABÃO DA HABITAÇÃO (PSB, 1953 votos)
+17 - WILIAN SILVAROLI / WILIAN DA ELETRICA (PDT, 1941 votos)
+18 - ALEXISANDRO PESSIMILIO BULHOES / PROFESSOR ALEX BULHOES (PMN, 1894 votos)
+19 - SERGIO ANACLETO PEIXOTO COSTA / SERGIO PEIXOTO (PROS, 1886 votos)
+20 - RODRIGO FERREIRA CORREA / RODRIGO CAÇULO (REPUBLICANOS, 1858 votos)
+21 - WELLINGTON BATISTA GUISOLPE / WELLINGTON ALEMÃO (DEM, 1838 votos)
+22 - ANDERSON SOARES MUNIZ / ANDERSON MUNIZ (PODE, 1812 votos)
+23 - JOSE ARTUR OLIVEIRA COSTA / PROFESSOR ARTUR COSTA (SOLIDARIEDADE, 1771 votos)
+
+Teriam sido eleitos se a votação fosse majoritária, e não foram eleitos:
+(com sua posição no ranking de mais votados)
+6 - RENATO RIBEIRO / PROFESSOR RENATO RIBEIRO (CIDADANIA, 2359 votos)
+15 - JOSE FABIO ARAUJO DOS SANTOS / FÁBIO LATINO (PSB, 2014 votos)
+16 - FÁBIO DE SOUZA ROSA / FABÃO DA HABITAÇÃO (PSB, 1953 votos)
+
+Eleitos, que se beneficiaram do sistema proporcional:
+(com sua posição no ranking de mais votados)
+29 - RAPHAELA MARIA DE OLIVEIRA MORAES VASQUES / RAPHAELA MORAES (REDE, 1659 votos)
+35 - PABLO AURINO RAMOS ARAUJO / PABLO MURIBECA (PATRIOTA, 1536 votos)
+40 - CLEBER LIMA PEREIRA / CLEBER SERRINHA (PDT, 1391 votos)
+
+Votação dos partidos e número de candidatos eleitos:
+1 - PDT - 12, 22738 votos (18210 nominais e 4528 de legenda), 3 candidatos eleitos
+2 - PSDB - 45, 17126 votos (16070 nominais e 1056 de legenda), 2 candidatos eleitos
+3 - PATRIOTA - 51, 16040 votos (15842 nominais e 198 de legenda), 2 candidatos eleitos
+4 - PSB - 40, 14505 votos (14081 nominais e 424 de legenda), 2 candidatos eleitos
+5 - PL - 22, 13979 votos (13500 nominais e 479 de legenda), 2 candidatos eleitos
+6 - PODE - 19, 13867 votos (13674 nominais e 193 de legenda), 2 candidatos eleitos
+7 - PP - 11, 13493 votos (13091 nominais e 402 de legenda), 2 candidatos eleitos
+8 - REDE - 18, 12006 votos (10718 nominais e 1288 de legenda), 2 candidatos eleitos
+9 - PMN - 33, 8988 votos (8871 nominais e 117 de legenda), 1 candidato eleito
+10 - REPUBLICANOS - 10, 8175 votos (8016 nominais e 159 de legenda), 1 candidato eleito
+11 - PRTB - 28, 7854 votos (7775 nominais e 79 de legenda), 1 candidato eleito
+12 - PROS - 90, 7195 votos (7090 nominais e 105 de legenda), 1 candidato eleito
+13 - DEM - 25, 6435 votos (6273 nominais e 162 de legenda), 1 candidato eleito
+14 - MDB - 15, 6418 votos (6152 nominais e 266 de legenda), 0 candidato eleito
+15 - SOLIDARIEDADE - 77, 6095 votos (6022 nominais e 73 de legenda), 1 candidato eleito
+16 - PTB - 14, 5977 votos (5857 nominais e 120 de legenda), 0 candidato eleito
+17 - PT - 13, 5764 votos (5353 nominais e 411 de legenda), 0 candidato eleito
+18 - CIDADANIA - 23, 5605 votos (5484 nominais e 121 de legenda), 0 candidato eleito
+19 - DC - 27, 5397 votos (5335 nominais e 62 de legenda), 0 candidato eleito
+20 - PSC - 20, 5023 votos (4826 nominais e 197 de legenda), 0 candidato eleito
+21 - PTC - 36, 4364 votos (4282 nominais e 82 de legenda), 0 candidato eleito
+22 - PMB - 35, 4296 votos (4219 nominais e 77 de legenda), 0 candidato eleito
+23 - PV - 43, 3264 votos (3211 nominais e 53 de legenda), 0 candidato eleito
+24 - PC do B - 65, 2144 votos (2085 nominais e 59 de legenda), 0 candidato eleito
+25 - PSL - 17, 1457 votos (1394 nominais e 63 de legenda), 0 candidato eleito
+26 - PSOL - 50, 675 votos (512 nominais e 163 de legenda), 0 candidato eleito
+27 - PSD - 55, 371 votos (316 nominais e 55 de legenda), 0 candidato eleito
+
+Votação dos partidos (apenas votos de legenda):
+1 - PDT - 12, 4528 votos de legenda (19,91% do total do partido)
+2 - REDE - 18, 1288 votos de legenda (10,73% do total do partido)
+3 - PSDB - 45, 1056 votos de legenda (6,17% do total do partido)
+4 - PL - 22, 479 votos de legenda (3,43% do total do partido)
+5 - PSB - 40, 424 votos de legenda (2,92% do total do partido)
+6 - PT - 13, 411 votos de legenda (7,13% do total do partido)
+7 - PP - 11, 402 votos de legenda (2,98% do total do partido)
+8 - MDB - 15, 266 votos de legenda (4,14% do total do partido)
+9 - PATRIOTA - 51, 198 votos de legenda (1,23% do total do partido)
+10 - PSC - 20, 197 votos de legenda (3,92% do total do partido)
+11 - PODE - 19, 193 votos de legenda (1,39% do total do partido)
+12 - PSOL - 50, 163 votos de legenda (24,15% do total do partido)
+13 - DEM - 25, 162 votos de legenda (2,52% do total do partido)
+14 - REPUBLICANOS - 10, 159 votos de legenda (1,94% do total do partido)
+15 - CIDADANIA - 23, 121 votos de legenda (2,16% do total do partido)
+16 - PTB - 14, 120 votos de legenda (2,01% do total do partido)
+17 - PMN - 33, 117 votos de legenda (1,30% do total do partido)
+18 - PROS - 90, 105 votos de legenda (1,46% do total do partido)
+19 - PTC - 36, 82 votos de legenda (1,88% do total do partido)
+20 - PRTB - 28, 79 votos de legenda (1,01% do total do partido)
+21 - PMB - 35, 77 votos de legenda (1,79% do total do partido)
+22 - SOLIDARIEDADE - 77, 73 votos de legenda (1,20% do total do partido)
+23 - PSL - 17, 63 votos de legenda (4,32% do total do partido)
+24 - DC - 27, 62 votos de legenda (1,15% do total do partido)
+25 - PC do B - 65, 59 votos de legenda (2,75% do total do partido)
+26 - PSD - 55, 55 votos de legenda (14,82% do total do partido)
+27 - PV - 43, 53 votos de legenda (1,62% do total do partido)
+
+Primeiro e último colocados de cada partido:
+1 - PP - 11, TEILTON VALIM (11000, 3379 votos) / JULIANA DA SILVA (11456, 3 votos)
+2 - PSB - 40, ADRIANO GALINHÃO (40333, 3307 votos) / FILINTRO (40899, 28 votos)
+3 - PRTB - 28, RODRIGO CALDEIRA (28777, 3022 votos) / KELY KETILA (28069, 7 votos)
+4 - PATRIOTA - 51, SAULINHO DA ACADEMIA (51789, 2642 votos) / ZICO (51101, 11 votos)
+5 - PDT - 12, PAULINHO DO CHURRASQUINHO (12300, 2538 votos) / JOÃO DA RETRO (12900, 19 votos)
+6 - CIDADANIA - 23, PROFESSOR RENATO RIBEIRO (23444, 2359 votos) / MARIAZINHA DE FEU ROSA (23458, 2 votos)
+7 - PSDB - 45, RAPOSÃO (45300, 2296 votos) / CIDA PA E BOLA (45444, 1 voto)
+8 - REDE - 18, ERICSON DUARTE (18600, 2269 votos) / NALY BANDEIRA (18657, 17 votos)
+9 - PL - 22, DR. WILLIAM MIRANDA (22123, 2188 votos) / ELIZABETH SILVA (22145, 3 votos)
+10 - PODE - 19, IGOR ELSON (19019, 2151 votos) / PAULO CESAR (19230, 1 voto)
+11 - PMN - 33, PROFESSOR ALEX BULHOES (33455, 1894 votos) / FABIANA (33126, 8 votos)
+12 - PROS - 90, SERGIO PEIXOTO (90618, 1886 votos) / JORGE GONZAGA (90135, 10 votos)
+13 - REPUBLICANOS - 10, RODRIGO CAÇULO (10456, 1858 votos) / MARCIA MIRANDA (10600, 0 voto)
+14 - DEM - 25, WELLINGTON ALEMÃO (25456, 1838 votos) / RABECHY FRANCA (25122, 8 votos)
+15 - SOLIDARIEDADE - 77, PROFESSOR ARTUR COSTA (77777, 1771 votos) / ISABELE SOARES (77999, 0 voto)
+16 - PV - 43, JOSE HENRIQUE (43333, 1704 votos) / ELZA LEUKEN (43877, 5 votos)
+17 - PT - 13, GILMAR (13120, 1685 votos) / FRANCIMAR (13026, 17 votos)
+18 - PSC - 20, PASTOR AILTON (20000, 1491 votos) / RONALDO (20555, 6 votos)
+19 - DC - 27, JUNIOR BARATA (27777, 1213 votos) / DOUTORA ADRIANNA (27262, 1 voto)
+20 - PMB - 35, ADILSON DE NOVO PORTO CANOA (35858, 1188 votos) / GABRIEL ROMULO (35277, 4 votos)
+21 - PTC - 36, FELIPE SARNAGLIA (36456, 1110 votos) / DENISE ENFERMEIRA (36020, 2 votos)
+22 - MDB - 15, LUIZ CARLOS MOREIRA (15789, 925 votos) / JOSIANE KREITLOW (15281, 0 voto)
+23 - PTB - 14, ANDRÉ MONTARROYOS (14500, 812 votos) / GAUCHO DA GUAIANASES (14114, 0 voto)
+24 - PC do B - 65, CLAUDIO VINDOR (65856, 533 votos) / MARIAH PIMENTA (65321, 4 votos)
+25 - PSL - 17, WELITON BATISTA (17777, 451 votos) / JANI SENA (17444, 0 voto)
+26 - PSOL - 50, THIAGO SOUZA (50123, 368 votos) / ROMÁRIO NOGUEIRA (50000, 54 votos)
+27 - PSD - 55, SANDRO JACARAIPE (55678, 121 votos) / NEHEMIAS ROCHA (55775, 0 voto)
+
+Eleitos, por faixa etária (na data da eleição):
+      Idade < 30: 1 (4,35%)
+30 <= Idade < 40: 7 (30,43%)
+40 <= Idade < 50: 12 (52,17%)
+50 <= Idade < 60: 1 (4,35%)
+60 <= Idade     : 2 (8,70%)
+
+Eleitos, por sexo:
+Feminino:  2 (8,70%)
+Masculino: 21 (91,30%)
+
+Total de votos válidos:    219251
+Total de votos nominais:   208259 (94,99%)
+Total de votos de legenda: 10992 (5,01%)
+
