@@ -19,7 +19,6 @@ public class Candidato {
     this.dataNascimento = dataNascimento;
   }
 
-  
   public void setPartido(Partido partido) {
     this.partido = partido;
   }

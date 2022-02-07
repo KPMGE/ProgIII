@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.util.Calendar;
 import java.util.ArrayList;
 
-
 public class Utilitarios {
   public static ArrayList<Partido> lePartidos(String csvPartidos) {
     ArrayList<Partido> listaPartidos = new ArrayList<Partido>();
@@ -81,9 +80,9 @@ public class Utilitarios {
         dataNascimento.set(ano, mes, dia);
 
         // criando novo candidato e salvando-o na lista
-        if(destinoVoto.equals("Válido")) {
+        if (destinoVoto.equals("Válido")) {
           Candidato novoCandidato = new Candidato(numero, votosNominais, numeroPartido, situacao, nome, nomeUrna,
-            destinoVoto, sexo, dataNascimento);
+              destinoVoto, sexo, dataNascimento);
 
           listaCandidatos.add(novoCandidato);
         }
