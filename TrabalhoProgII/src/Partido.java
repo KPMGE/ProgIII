@@ -12,20 +12,12 @@ public class Partido {
     this.sigla = sigla;
   }
 
-  public void exibePartido() {
-    System.out.println("Nome: " + this.nome);
-    System.out.println("Numero: " + this.numero);
-    System.out.println("sigla: " + this.sigla);
-    System.out.println("Votos Legenda: " + this.votosLegenda);
-    System.out.println();
-  }
-
   public Candidato getCandidatoMaisVotado() {
-    if(candidatos.size() > 0){
-    ArrayList<Candidato> listaCandidatos = this.candidatos;
-    Collections.sort(listaCandidatos, new ComparadorCandidatoVotosNominais());
+    if (candidatos.size() > 0) {
+      ArrayList<Candidato> listaCandidatos = this.candidatos;
+      Collections.sort(listaCandidatos, new ComparadorCandidatoVotosNominais());
 
-    return listaCandidatos.get(0);
+      return listaCandidatos.get(0);
     }
     return null;
   }
